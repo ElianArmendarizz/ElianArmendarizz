@@ -6,10 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elian-armendariz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elianarmendariz)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElianArmendarizz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elianarmendariz@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-elian-one.vercel.app)
 
 </div>
 
@@ -33,7 +33,6 @@ const elian = {
 
 ### 💼 Actualmente
 
-- 🔭 Desarrollando **Lotería Campechana Digital** (React Native)
 - 🌱 Profundizando en **React Native, TypeScript y Arquitectura Fullstack**
 - 👨‍💻 Experiencia en **Frontend con integración a bases de datos**
 - 🎯 Buscando oportunidades como **Frontend/Mobile Developer**
@@ -77,13 +76,6 @@ const elian = {
 ---
 
 ## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElianArmendarizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=es"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianArmendarizz&layout=compact&langs_count=8&theme=tokyonight&locale=es"/>
-
-</div>
 
 <div align="center">
   
