@@ -89,67 +89,6 @@ const elian = {
 
 ---
 
-## 💼 Experiencia Destacada
-
-### 🚗 Desarrollador de Aplicación de Monitoreo
-**Tisolux Simples Soluciones** | *Servicio Social 2024 (6 meses)*
-```javascript
-const proyecto = {
-  descripcion: "Sistema de monitoreo de ubicación de transportes",
-  responsabilidades: [
-    "Desarrollo frontend de la aplicación",
-    "Implementación de actualizaciones funcionales",
-    "Gestión y actualización de base de datos MySQL",
-    "Mejora continua según requerimientos operativos"
-  ],
-  tecnologias: ["JavaScript", "PHP", "MySQL", "XAMPP"]
-};
-```
-
-**Logros:**
-- ✅ Control en tiempo real de ubicación de vehículos
-- ✅ Sistema de autenticación robusto
-- ✅ Interfaz responsiva y funcional
-- ✅ Integración completa Frontend-Backend-BD
-
----
-
-## 🏆 Proyectos Destacados
-
-<div align="center">
-
-[![Lotería Campechana](https://github-readme-stats.vercel.app/api/pin/?username=ElianArmendarizz&repo=loteria-campechana&theme=tokyonight&locale=es&description_lines_count=3)](https://github.com/ElianArmendarizz/loteria-campechana)
-
-</div>
-
-### 🎲 Lotería Campechana Digital
-> App móvil multiplataforma que digitaliza la tradicional lotería mexicana con animaciones 3D, síntesis de voz y experiencia inmersiva
-
-**Stack:** React Native • TypeScript • Expo • Reanimated 3 • Expo Speech  
-**Características:**
-- 🎰 Modo Manual con control total
-- ⚡ Modo Automático con 4 velocidades
-- 🔊 Text-to-Speech en español mexicano
-- 🎨 90 fichas con imágenes personalizadas
-- 🧠 Algoritmo anti-patrones con Fisher-Yates mejorado
-- 📱 Diseño responsivo y animaciones fluidas
-
-[📱 Ver Demo](#) • [📥 Descargar APK](#) • [⭐ Dale una Estrella](#)
-
----
-
-### 🛍️ E-Commerce con Carrito de Compras
-> Plataforma web funcional con sistema de autenticación, catálogo filtrable y carrito de compras
-
-**Stack:** HTML5 • CSS3 • JavaScript • PHP • MySQL • Tailwind CSS  
-**Características:**
-- 👤 Sistema de registro y login
-- 🔍 Catálogo con filtros dinámicos
-- 🛒 Carrito de compras funcional
-- 💾 Base de datos relacional
-
----
-
 ## 📈 Actividad de Contribuciones
 
 <div align="center">
@@ -162,7 +101,7 @@ const proyecto = {
 
 ## 🎯 Objetivos Profesionales
 ```typescript
-const objetivos2025 = {
+const objetivos2026 = {
   corto_plazo: [
     "Incorporarme como Frontend/Mobile Developer Junior",
     "Contribuir en proyectos de impacto real",
@@ -183,16 +122,6 @@ const objetivos2025 = {
 
 ---
 
-## 💭 Frase del Día
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🎵 Escuchando Ahora
 
 <div align="center">
@@ -207,10 +136,10 @@ const objetivos2025 = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elian-armendariz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hablemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elianarmendariz)
 [![Email](https://img.shields.io/badge/Email-elianarmendariz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elianarmendariz@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-981_168_2698-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5219811682698)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Proyectos-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portafolio.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_Proyectos-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio-elian-one.vercel.app)
 
 ### 💼 Disponible para Oportunidades
 
