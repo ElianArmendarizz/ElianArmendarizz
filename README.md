@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Elian Armendáriz
 
-<img src="https://readme-typing-svg.herokuapp.com/font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desarrollador+Frontend+%F0%9F%92%BB;Desarrollador+M%C3%B3vil+%F0%9F%93%B1;React+Native+%7C+JavaScript+%7C+TypeScript;Construyendo+Experiencias+Digitales+%E2%9C%A8;De+Veracruz%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Desarrollador+Frontend;Desarrollador+Móvil;React+Native+%7C+JavaScript+%7C+TypeScript;Construyendo+Experiencias+Digitales;De+Veracruz%2C+México" alt="Typing SVG" />
 
 <br/>
 
