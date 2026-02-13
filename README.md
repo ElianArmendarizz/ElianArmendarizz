@@ -122,16 +122,6 @@ const objetivos2026 = {
 
 ---
 
-## 🎵 Escuchando Ahora
-
-<div align="center">
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31abcxyz1234567890)
-
-</div>
-
----
-
 ## 📫 Conectemos
 
 <div align="center">
